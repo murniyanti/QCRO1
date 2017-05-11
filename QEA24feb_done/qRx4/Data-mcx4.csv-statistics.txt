@@ -1,0 +1,14 @@
+Run 0=5262.0
+Run 1=5302.0
+Run 2=5347.0
+Run 3=5612.0
+Run 4=5362.0
+Run 5=5964.0
+Run 6=5177.0
+Run 7=5464.0
+Run 8=5407.0
+Run 9=5236.0
+Best Result= 5964.0
+Mean=5413.3
+Standard Deviation=217.931663601
+Variance=47494.21

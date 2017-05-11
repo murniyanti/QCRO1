@@ -1,0 +1,9 @@
+Best PE=  11277.0
+Best Solution=  [29, 38, 24, 19, 36, 30, 21, 1, 7, 35, 8, 32, 28, 11, 34, 23, 2, 31, 37, 4, 17, 22, 26, 6, 14, 20, 27, 13, 15, 16, 18, 12, 5, 25, 10, 3, 0, 33, 9]
+filename= mcx4.csv
+populationSize= 500
+Iteration= 1000
+KELossRate= 0.3
+InitKE= 1
+alpha= 30
+beta= 11500

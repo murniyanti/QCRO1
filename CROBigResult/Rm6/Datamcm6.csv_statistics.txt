@@ -1,0 +1,15 @@
+Run 0= 44369.0
+Run 1= 42910.0
+Run 2= 43190.0
+Run 3= 38745.0
+Run 4= 39668.0
+Run 5= 38489.0
+Run 6= 38164.0
+Run 7= 38001.0
+Run 8= 37558.0
+Run 9= 38021.0
+Best Result=44369.0
+Mean= 39911.5
+Standard Deviation= 2426.29574661
+Variance= 5886911.05
+Time taken for 10 runs= 22744.0580339
